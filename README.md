@@ -37,4 +37,21 @@ The conception and design of the Database was done with the help of DB-Designer.
 
 
 ## :pushpin: Database Structure :wrench:
+As it appears in its design, the Database in my project has 5 tables: Customer, Address, Product, Order_Item and Order. 
+
+
+![1](https://user-images.githubusercontent.com/115346533/209981011-77eeb303-4235-4726-bd0d-fc29077a3b3c.jpg)
+
+![2](https://user-images.githubusercontent.com/115346533/209981038-19353057-bfa8-4f08-94fa-e597c0101165.jpg)
+
+![3](https://user-images.githubusercontent.com/115346533/209981059-99f9e492-f22d-4cf8-be43-5326597ce5a3.jpg)
+
+![4](https://user-images.githubusercontent.com/115346533/209981074-62c91ff8-3fb3-439b-8e3b-539c995fdfff.jpg)
+
+![5](https://user-images.githubusercontent.com/115346533/209981092-7e731ba9-b981-40e3-965d-35247c6f5973.jpg)
+
+
+
+
+
 
