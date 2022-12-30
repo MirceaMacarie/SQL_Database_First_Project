@@ -55,3 +55,13 @@ As it appears in its design, the Database in my project has 5 tables: Customer, 
 
 
 
+## :pushpin: CRUD operations and JOINs on Database 🖥️
+After building the tables in the Database, I started to execute the CRUD and JOIN operations, to learn and practice the fundamental operations in a Database, from phpMyAdmin interface and with SQL commands.
+1. CREATE (INSERT)
+2. READ (SELECT)
+3. UPDATE
+4. DELETE
+5. JOIN
+
+
+
