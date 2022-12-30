@@ -1,4 +1,4 @@
-# My First Relational Databases (SQL)
+# My First Relational Database (SQL)
 This is my first database project, containing a relational database made with MySQL database manager, SQL language and phpMyAdmin client interface. It is inspired by the Introductory SQL Database Course on Udemy that I took. 
 
 
@@ -17,7 +17,7 @@ As a software testing enthusiast, basic knowledge of databases is also necessary
 ## :pushpin: Project technologies :computer:
 + **DB Designer** as main online tool to make Database Design
 + **MySQL** as Database Management System (DBMS for relational DB)
-+ **SQL** language to structure and made CRUD operations
++ **SQL** language to structure and made CRUD operations and JOINs
 + **phpMyAdmin** as client interface for MySQL DBMS
 
    <img alt="db-designer-logo" src="https://user-images.githubusercontent.com/115346533/209976690-4f0f036d-d482-4a85-9732-f46b25f795a3.png" width="250" height="91">   <img alt="MySql Logo" src="https://user-images.githubusercontent.com/115346533/209978789-90684d8c-656b-440f-ac19-9191ce645146.png" width="131" height="91">   <img alt="SQL Logo" src="https://user-images.githubusercontent.com/115346533/209977708-e343b93f-11da-4b96-9cfb-b1e05654063c.png" width="200" height="91">   <img alt="phpMyAdmin Logo" src="https://user-images.githubusercontent.com/115346533/209978321-8d8b5b86-c4a3-4ef7-8fc0-f744f89e2826.png" width="91" height="91">
@@ -37,7 +37,7 @@ The conception and design of the Database was done with the help of DB-Designer.
 
 
 ## :pushpin: Database Structure :wrench:
-As it appears in its design, the Database in my project has 5 tables: Customer, Address, Product, Order_Item and Order. 
+As it appears in its design, the Database in my project has 5 tables: Customer, Address, Product, Order_Item and Order. Each table has its own Primary key (5 PKs), being linked between them by Foreign keys (5 FKs).
 
 
 ![1](https://user-images.githubusercontent.com/115346533/209981011-77eeb303-4235-4726-bd0d-fc29077a3b3c.jpg)
