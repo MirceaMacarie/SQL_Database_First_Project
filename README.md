@@ -57,11 +57,24 @@ As it appears in its design, the Database in my project has 5 tables: Customer, 
 
 ## :pushpin: CRUD operations and JOINs on Database 🖥️
 After building the tables in the Database, I started to execute the CRUD and JOIN operations, to learn and practice the fundamental operations in a Database, from phpMyAdmin interface and with SQL commands.
-1. CREATE (INSERT)
-2. READ (SELECT)
-3. UPDATE
-4. DELETE
-5. JOIN
 
+**1. CREATE (INSERT)**
 
+![Insert](https://user-images.githubusercontent.com/115346533/210071610-e541adcd-d237-4990-b472-574ad478bddd.jpg)
+
+**2. READ (SELECT)**
+
+![Select](https://user-images.githubusercontent.com/115346533/210071625-a763624b-a79b-476f-94d1-dd4ce446bc43.jpg)
+
+**3. UPDATE**
+
+![Update](https://user-images.githubusercontent.com/115346533/210071642-b57e0628-fe0a-4d1b-849f-62c224c1f611.jpg)
+
+**4. DELETE**
+
+![Delete](https://user-images.githubusercontent.com/115346533/210071665-b8c64566-edba-4ea2-8cf3-5a28f97e5467.jpg)
+
+**5. JOINs**
+
+![Inner Join](https://user-images.githubusercontent.com/115346533/210071682-0297ff92-9f49-45f9-ac0a-993121327186.jpg)
 
